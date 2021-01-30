@@ -11,6 +11,16 @@ The project is a virtual wallet system built with [Laravel 7](https://laravel.co
 4. every route has middleware check for security.
 5. Admin Can show the list of Users Table.
 
+## adminlogin(Route)
+
+/Money-Wallet/adminlogin
+
+## admindetails (after dB::seed)
+
+email : admin@admin.com
+password : admin123
+
+
 ## Project Setup(Web Portal)
 
 ### Cloning the GitHub Repository.
