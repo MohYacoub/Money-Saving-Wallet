@@ -5,7 +5,7 @@
 The project is a virtual wallet system built with [Laravel 7](https://laravel.com) The features of this project include
 
 1. Registration of users.
-2. Users Can be Create owns Caegories.
+2. Users Can be Create owns Categories.
 3. Users can create Incomes/expenses and show list of it's details.
 4. every route has middleware check for security.
 5. Admin Can show the list of Users Table.
