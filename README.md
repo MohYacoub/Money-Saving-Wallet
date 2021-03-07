@@ -1,7 +1,6 @@
 # Money-Saving-Wallet
 ![159](https://user-images.githubusercontent.com/71829355/106353034-47ba5900-62f0-11eb-9fa2-6f22c2445c27.png)
 
-![screencapture-127-0-0-1-8000-login-2021-03-07-18_18_07](https://user-images.githubusercontent.com/71829355/110247016-a9ff1d00-7f72-11eb-9d6d-924bc6e4211b.png)
 
 ## Project Description
 
